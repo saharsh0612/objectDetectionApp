@@ -63,7 +63,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
@@ -72,3 +71,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 It works on localhost as well as SSL enabled hosting, deploying it on hosting withoul SSL will not work well.
 getUserMedia is only callable if you running your application on localhost (the browser defines this as secure) OR use SSL at deployment.
+
+
+
+
+
+![Screenshot from 2022-04-01 21-27-17](https://user-images.githubusercontent.com/58391595/161301864-993039f1-58ad-4113-9dff-44194f8698f4.png)
