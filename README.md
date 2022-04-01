@@ -69,5 +69,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 ####### NOTE ##########
+
 It works on localhost as well as SSL enabled hosting, deploying it on hosting withoul SSL will not work well.
 getUserMedia is only callable if you running your application on localhost (the browser defines this as secure) OR use SSL at deployment.
